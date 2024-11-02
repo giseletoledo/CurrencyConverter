@@ -1,7 +1,8 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"  width="6%" />  Currency Conversion App 
           
 
-Descrição
+## Descrição
+
 O Currency Conversion App é uma aplicação Java que permite aos usuários converter valores entre diferentes moedas. 
 O aplicativo utiliza a [ExchangeRate API](https://www.exchangerate-api.com/docs/overview) para obter as taxas de câmbio mais recentes e oferece um histórico de conversões realizadas.
 
